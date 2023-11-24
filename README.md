@@ -5,7 +5,7 @@ Disentangling gene flow from cross-contamination could be difficult, however in 
 
 # Installation 
 ```
-git clone 
+git clone https://github.com/Mathilde-Barthe/Mitochondrial_support.git
 ```
 
 # Dependencies 
